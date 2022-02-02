@@ -1,0 +1,1 @@
+### This folder contains graphical icons that are used in the application
