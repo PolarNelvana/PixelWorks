@@ -1,7 +1,5 @@
 ﻿; Written by Lucas Jaramillo. Started this project on 11/15/18. A work still in progress...
 ; Thank you Lord for giving me the brain capacity to do this!
-; Please don't steal or modify this source code. I worked really hard on it!
-; If you find this source, shoot me an email at cpumood@gmail.com!
 
 ; DIRECTIVES
 #NoEnv
