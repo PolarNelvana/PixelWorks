@@ -1,7 +1,7 @@
 # PixelWorks
 <em> An advanced color picker tool </em>
 
-This is a work in progress! It is in the process of being rewritten.
+This is a work in progress! It is in the process of being refactored.
 <h3> Screenshots </h3>
 
 | ![Screenshot](Screenshots/Screenshot_1.png) |
